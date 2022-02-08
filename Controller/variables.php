@@ -1,0 +1,7 @@
+<?php
+
+ $homeTitle = 'Assignment Tracker';
+ 
+
+
+?>
